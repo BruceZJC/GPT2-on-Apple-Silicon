@@ -1,2 +1,2 @@
-# GPT2 on Apple-Silicon
- Rebuild and train a 117M GPT2 model on MacOS with M1pro chip
+# Code & Note for: Neural Networks: Zero to Hero
+A course by Andrej Karpathy on building neural networks, from scratch, in code.
